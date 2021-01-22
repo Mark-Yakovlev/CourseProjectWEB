@@ -1,0 +1,27 @@
+.header_nav li:nth-child(3){
+  background: white;
+}
+.header_nav li:nth-child(3) a{
+  color: #333333;
+  font-size: 17px;
+  font-weight: 900;
+} 
+.main_main_text {
+  display: grid;
+  grid-template-columns: repeat(1, 4fr 1fr);
+  font-size: 12px;
+  margin-top: 10px;
+  padding-right: 40px;
+  line-height: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+}
+  .main_main_text span {
+  font-size: 15px;
+  color: rgb(144, 93, 0);
+  font-weight: 500;
+  margin-bottom: 60px;
+}
+.main_main_text p {
+  padding-top: 20px;
+}

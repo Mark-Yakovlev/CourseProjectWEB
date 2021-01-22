@@ -1,0 +1,6 @@
+.main_main_text p:nth-child(2){
+    font-size: 10px;
+    color: #909090;
+    line-height: normal;
+    width: 400px;
+  }

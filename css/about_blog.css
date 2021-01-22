@@ -1,0 +1,14 @@
+.header_nav li:nth-child(2){
+  background: white;
+}
+.header_nav li:nth-child(2) a{
+  color: #333333;
+  font-size: 17px;
+  font-weight: 900;
+} 
+.main_main_text p:nth-child(2){
+  font-size: 10px;
+  color: #909090;
+  line-height: normal;
+  width: 400px;
+}

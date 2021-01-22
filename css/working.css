@@ -1,0 +1,5 @@
+.main_main_text {
+  display: grid;
+  grid-template-columns: repeat(1, 2fr 1fr);
+  font-size: 20px;
+}
